@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp.Android", "PhoneAp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp.Translator", "PhoneApp.Translator\PhoneApp.Translator.csproj", "{E69B6B04-10FB-412F-982B-960EC4D3C997}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhoneApp.iOS", "PhoneApp.iOS\PhoneApp.iOS.csproj", "{65E61C44-89BE-43F9-AAE2-0D6672386AC4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -193,6 +195,24 @@ Global
 		{E69B6B04-10FB-412F-982B-960EC4D3C997}.Release|x64.Build.0 = Release|Any CPU
 		{E69B6B04-10FB-412F-982B-960EC4D3C997}.Release|x86.ActiveCfg = Release|Any CPU
 		{E69B6B04-10FB-412F-982B-960EC4D3C997}.Release|x86.Build.0 = Release|Any CPU
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|Any CPU.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|ARM.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|ARM64.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|iPhone.Build.0 = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|x64.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Debug|x86.ActiveCfg = Debug|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|Any CPU.ActiveCfg = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|ARM.ActiveCfg = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|ARM64.ActiveCfg = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|iPhone.ActiveCfg = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|iPhone.Build.0 = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|x64.ActiveCfg = Release|iPhone
+		{65E61C44-89BE-43F9-AAE2-0D6672386AC4}.Release|x86.ActiveCfg = Release|iPhone
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
